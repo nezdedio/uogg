@@ -108,7 +108,7 @@
     
     "menu" : [
         {
-            "active" : "false",
+            "active" : "true",
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
@@ -118,7 +118,7 @@
             "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
             "bg" : "#FBBF24"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "spinner",
             "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
             "bg" : "#A3E635"
@@ -128,7 +128,7 @@
             "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
             "bg" : "#38BDF8"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
@@ -296,58 +296,49 @@
         {
             "url" : "",
             "urlimg" : "",
-            "name" : "STEP 1",
-            "img1" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/1.jpg",
-            "img2" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/2.jpg",
-            "part1" : "SANTA GATE",
-            "part2" : "IT WAS A TOUGH YEAR FOR ALL INVESTORS! SANTA GATE CAME UP WITH A SNATA GATE BONUS APPLICATION TO COMPENSATE ALL INVESTORS BE READY."
+            "name" : "SANTA GATE",
+            "img1" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/1.png",
+            "img2" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/2.png",
+            "part1" : "IT WAS A TOUGH YEAR FOR ALL INVESTORS! SANTA GATE CAME UP WITH A SNATA GATE BONUS APPLICATION TO COMPENSATE ALL INVESTORS BE READY.",
+            "part2" : "1- Introduction 2- Rewards app 3- Tokenomics 4- Partners 5- Team members 6- Roadmap."
         },
         {
             "url" : "",
-            "urlimg" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/1.jpg",
-            "name" : "STEP 1",
-            "img1" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/2.jpg",
-            "img2" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/1.jpg",
+            "urlimg" : "",
+            "name" : "ABOUT",
+            "img1" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/3.png",
+            "img2" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/4.png",
+            "part1" : "It’s the most beautiful time of the year andsanta gate team is excited to present you with the SANTA GATE token on the binance smart chain network with our revolutionary new rewards-based app that gives you coupons for playing games with an insane opportunity to earn Santa gate rewards, our application is currently available on playstore. With the Santa Gate App users will be able to play and answer special online trivia and questions, solve puzzles, scratch, and win and even spin a special wheel to try out your luck.",
+            "part2" : "With the Santa Gate App you will play and answer special online trivia and questions, solve puzzles,scratch, and win and even spin a special wheel to try out your luck. With eachwin you make you’ll begiven Santa points which you can convert to tokens you can trade and hold as you wish. Santa Gate will simply allow you to enjoy playing and give you rewardsat the same time."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "TOKENOMICS - ROADMAP",
+            "img1" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/5.png",
+            "img2" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/6.png",
+            "part1" : "PHASE 1 = Open Telegram groups /Socials open /Marketing campaign /AMA Lounges, Big calls! /Socialmedia Marketing /Telegram chats /influencer marketing /first AMa with our community /KYC & AUDIT released /Pinksale Presale.",
+            "part2" : "PHASE 2 = Official Launch /Santa gate app /CMC & CG Lsiting /Avadex & Dextools Trending /Big Prizes to the community /on 19th December /Phase two of our marketing /Campaign /Donations to Community /chosen Charities PHASE 2 = Social Updates of iconming /events and releases /Details about Evoling /The Project For the New Year /New Features /Upload to social media our /results /keep improving"
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "TEAM",
+            "img1" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/7.png",
+            "img2" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/8.png",
+            "part1" : "SANTA GATE PARTNERS",
+            "part2" : ""
+        },
+
+
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "MARKETING ROADMAP",
+            "img1" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/9.png",
+            "img2" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/10.png",
             "part1" : "",
-            "part2" : " "
-        },
-        {
-            "url" : "",
-            "urlimg" : "https://img.icons8.com/external-bearicons-outline-color-bearicons/80/000000/external-click-frequently-asked-questions-faq-bearicons-outline-color-bearicons.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/564x/d8/0c/f3/d80cf3099aac52b695072918fe2d612a.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/ce/89/3c/ce893c542e3462afcc0323d8e4213009.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-
-
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/65/5a/f6/655af642e7f06bc3400bde4895b1d1c8.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+            "part2" : ""
         }
     ]
 }

@@ -9,7 +9,7 @@
 
             "int_interval" : 10,
             "activate_ads" : "false",
-            "activate_steps" : "false",
+            "activate_steps" : "true",
             "activate_step_email" : "false",
             "one_signal" : "",
             "network" : "",

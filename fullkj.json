@@ -109,7 +109,7 @@
     "menu" : [
         {
             "active" : "true",
-            "name" : "Guide Tips",
+            "name" : "Start Here",
             "ico" : "",
             "bg" : "#FB923C"
         },{
@@ -312,13 +312,13 @@
             "part2" : "With the Santa Gate App you will play and answer special online trivia and questions, solve puzzles,scratch, and win and even spin a special wheel to try out your luck. With eachwin you make you’ll begiven Santa points which you can convert to tokens you can trade and hold as you wish. Santa Gate will simply allow you to enjoy playing and give you rewardsat the same time."
         },
         {
-            "url" : "",
-            "urlimg" : "",
+            "url" : "https://www.santagate.com/#roadmap",
+            "urlimg" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/6.png",
             "name" : "TOKENOMICS - ROADMAP",
             "img1" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/5.png",
             "img2" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/6.png",
-            "part1" : "TOTAL SUPPLY: 10M SAGA     BUY: 0%     SELL TAX: 4% ",
-            "part2" : "PHASE 1 = Open Telegram groups /Socials open /Marketing campaign /AMA Lounges, Big calls! /Socialmedia Marketing /Telegram chats /influencer marketing /first AMa with our community /KYC & AUDIT released /Pinksale Presale. PHASE 2 = Official Launch /Santa gate app /CMC & CG Lsiting /Avadex & Dextools Trending /Big Prizes to the community /on 19th December /Phase two of our marketing /Campaign /Donations to Community /chosen Charities PHASE 3 = Social Updates of iconming /events and releases /Details about Evoling /The Project For the New Year /New Features /Upload to social media our /results /keep improving"
+            "part1" : "TOTAL SUPPLY: 10M SAGA     BUY TAX: 0%     SELL TAX: 4%",
+            "part2" : ""
         },
         {
             "url" : "",

@@ -303,8 +303,8 @@
             "part2" : "1- Introduction 2- Rewards app 3- Tokenomics 4- Partners 5- Team members 6- Roadmap."
         },
         {
-            "url" : "",
-            "urlimg" : "",
+            "url" : "https://t.me/SantaGate",
+            "urlimg" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/tg.png",
             "name" : "ABOUT",
             "img1" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/3.png",
             "img2" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/4.png",
@@ -316,13 +316,13 @@
             "urlimg" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/6.png",
             "name" : "TOKENOMICS - ROADMAP",
             "img1" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/5.png",
-            "img2" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/6.png",
+            "img2" : "",
             "part1" : "TOTAL SUPPLY: 10M SAGA     BUY TAX: 0%     SELL TAX: 4%",
             "part2" : ""
         },
         {
             "url" : "",
-            "urlimg" : "",
+            "urlimg" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/tw.png",
             "name" : "TEAM",
             "img1" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/7.png",
             "img2" : "https://raw.githubusercontent.com/nezdedio/uogg/main/santa/8.png",

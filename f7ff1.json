@@ -33,7 +33,7 @@
             "iron_source_key": "",
 
             "diamond": "http://esotericsoftware.com/img/blog/diamond-tutorial/diamond-sizes--small.gif",
-            "cover": "https://raw.githubusercontent.com/Maria01g/d6ff1/main/ff1/coov.png",
+            "cover": "https://raw.github.com/nezdedio/uogg/blob/main/cov.gif",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
@@ -155,42 +155,42 @@
         },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "https://raw.githubusercontent.com/Maria01g/d6ff1/main/ff1/1.png",
+            "ico" : "https://raw.githubusercontent.com/nezdedio/uogg/main/1.png",
             "bg" : "#FBBF24"
         },{
             "active" : "true",
             "name" : "spinner",
-            "ico" : "https://raw.githubusercontent.com/Maria01g/d6ff1/main/ff1/2.png",
+            "ico" : "https://raw.githubusercontent.com/nezdedio/uogg/main/2.png",
             "bg" : "#A3E635"
         },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://raw.githubusercontent.com/Maria01g/d6ff1/main/ff1/3.png",
+            "ico" : "https://raw.githubusercontent.com/nezdedio/uogg/main/3.png",
             "bg" : "#38BDF8"
         },{
             "active" : "true",
             "name" : "questions",
-            "ico" : "https://raw.githubusercontent.com/Maria01g/d6ff1/main/ff1/4.png",
+            "ico" : "https://raw.githubusercontent.com/nezdedio/uogg/main/4.png",
             "bg" : "#2DD4BF"
         },{
             "active" : "true",
             "name" : "quiz",
-            "ico" : "https://raw.githubusercontent.com/Maria01g/d6ff1/main/ff1/5.png",
+            "ico" : "https://raw.githubusercontent.com/nezdedio/uogg/main/5.png",
             "bg" : "#4ADE80"
         },{
             "active" : "true",
             "name" : "wallpapers",
-            "ico" : "https://raw.githubusercontent.com/Maria01g/d6ff1/main/ff1/6.png",
+            "ico" : "https://raw.githubusercontent.com/nezdedio/uogg/main/6.png",
             "bg" : "#2196F3"
         },{
             "active" : "true",
             "name" : "more",
-            "ico" : "https://raw.githubusercontent.com/Maria01g/d6ff1/main/ff1/7.png",
+            "ico" : "https://raw.githubusercontent.com/nezdedio/uogg/main/7.png",
             "bg" : "#3F51B5"
         },{
             "active" : "true",
             "name" : "games",
-            "ico" : "https://raw.githubusercontent.com/Maria01g/d6ff1/main/ff1/8.png",
+            "ico" : "https://raw.githubusercontent.com/nezdedio/uogg/main/8.png",
             "bg" : "#673AB7"
         }
     ],
